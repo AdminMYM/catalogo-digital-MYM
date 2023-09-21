@@ -3153,7 +3153,7 @@ export const items = [
 		'id': 'dc-parrillasuspension7',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'México',
+		'pais': 'Argentina/México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3170,7 +3170,7 @@ export const items = [
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'México',
+		'pais': 'Argentina/México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
