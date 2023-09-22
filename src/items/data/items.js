@@ -4853,7 +4853,7 @@ export const items = [
 		'id': 'dc-motoventilador3',
 		'name': 'Motoventilador P.207/P.301/Citroen C3 1.4/1.4 Hdi/1.6 16v 2003/…',	
 		'publisher': 'otro',
-		'pais': 'México',
+		'pais': 'Argentina/México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4863,7 +4863,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
 		'categoria':'Motoventilador',
-		'codigoCliente': 'WILLHELM-MW003',
+		'codigoCliente': 'FCH-4830 / WILLHELM-MW003',
 	},
 	
 	{
