@@ -1,9 +1,13 @@
 import { items2 } from "./items2"
 import { items3 } from "./items3"
+import { items4 } from "./items4"
+import { items5 } from "./items5"
 
 export const items = [
 	...items2,
 	...items3,
+	...items4,
+	...items5,
 	{
 		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Mini Cooper Clubman 350watt 3 Pins',
@@ -2466,7 +2470,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/b5rWyXx/96447642.png',
 		'categoria':'Bomba Combustible',
-		'codigoCliente': 'PENDIENTE',
+		'codigoCliente': 'RDS-PENDIENTE',
 	},
 
 	{
@@ -5112,7 +5116,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'E3DZ8A616-B',
+		'oem': 'E3DZ-8A616-B',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,10',
 		'descripcion': 'lorem lorem',
@@ -5237,7 +5241,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_934625-MLA25468665659_032017-F.webp',
 		'categoria':'Poleas',
-		'codigoCliente': 'FCH-PENDIENTE',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST403',
 	},
 
 	{

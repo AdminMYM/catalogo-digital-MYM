@@ -1915,7 +1915,7 @@ export const items2 = [
 		'marca': 'BMW',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://m.media-amazon.com/images/I/513i1fSnIDS._AC_SL1500_.jpg',
+		'url': 'https://i.ibb.co/xLwXdsX/1920-LR.png',
 		'categoria':'Sensor de Posición del Cigüeñal',
 		'codigoCliente': 'WILLHELM-WH191422',
 	},
@@ -5521,7 +5521,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_627977-MLA29130714498_012019-O.webp',
 		'categoria': 'Cuerpo de Aceleración',
-		'codigoCliente': 'PENDIENTE',	
+		'codigoCliente': 'RDS-PENDIENTE',	
 	},
 
 	{
@@ -5538,7 +5538,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_627977-MLA29130714498_012019-O.webp',
 		'categoria': 'Cuerpo de Aceleración',
-		'codigoCliente': 'PENDIENTE',	
+		'codigoCliente': 'RDS-PENDIENTE',	
 	},
 
 	{
